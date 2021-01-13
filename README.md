@@ -1,2 +1,3 @@
 # Inventory
  inventory project
+.
